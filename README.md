@@ -40,7 +40,8 @@
   - 📫 [Email](mailto:vatsal.suvagiya@mindinventory.com)
 </div>
 <div align="center">
-  ## Tech Tidbit 🎮
+  
+  ## **Tech Tidbit** 🎮
 
   In the realm of coding, there's a quirky tradition known as "Rubber Duck Debugging." 🦆👨‍💻 Developers often explain code problems to a rubber duck on their desk. The act of articulating the issue helps   them find the solution! It's like a duck's magical powers transform complex code into simplicity. 🌟✨
 
