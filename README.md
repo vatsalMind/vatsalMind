@@ -1,6 +1,4 @@
 ### Hi there 👋
-# Hello World! <img src="https://media.giphy.com/media/26xBwdIuRJi8Aw7Q0/giphy.gif" width="30">
-
 <!--
 **vatsalMind/vatsalMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
