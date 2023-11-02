@@ -19,8 +19,24 @@
   💻 As a full stack developer, I craft digital experiences and dive into the depths of JavaScript frameworks to build dynamic and innovative applications.
 
   🌊 Passionate about:
-  📖 Reading a variety of genres
-  🏊‍♂️ Swimming to unwind and stay fit
-  🌐 Exploring new dimensions in javascript frameworks
-  🌟 Sculpting exquisite web experiences
-  🔧 Playing around with imaginative coding techniques
+  - 📖 Reading a variety of genres
+  - 🏊‍♂️ Swimming to unwind and stay fit
+  - 🌐 Exploring new dimensions in javascript frameworks
+  - 🌟 Sculpting exquisite web experiences
+  - 🔧 Playing around with imaginative coding techniques
+
+  ## Skills that Propel Me Forward
+  
+  🚀 Proficient in:
+  - 💬 Languages: JavaScript, PHP, Python, jQuery, AJAX
+  - 🌐 Full Stack: Node.js, Koa, Express, React, Next.js, GraphQL
+  - 🗃️ Databases: MySQL, MongoDB
+  - 🧲 ORM: Sequelize, Prisma
+  - 🔧 Tools: VSCode, Git, 🐳 Docker
+
+  ## Let's Connect!
+
+  Let's journey through the cosmos together:
+  - 📫 [Email](mailto:vatsal.suvagiya@mindinventory.com)
+  - 👔 [LinkedIn](www.linkedin.com/in/vatsalsuvagiya)
+
