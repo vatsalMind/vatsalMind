@@ -17,7 +17,8 @@
   📚 When I'm not immersed in code, you'll find me diving into the depths of books or swimming through the waves. I believe in the transformative power of literature and the refreshing energy of the water.
 
   💻 As a full stack developer, I craft digital experiences and dive into the depths of JavaScript frameworks to build dynamic and innovative applications.
-
+</div>
+<div align="left">
   🌊 Passionate about:
   - 📖 Reading a variety of genres
   - 🏊‍♂️ Swimming to unwind and stay fit
@@ -38,7 +39,8 @@
 
   Let's journey through the cosmos together:
   - 📫 [Email](mailto:vatsal.suvagiya@mindinventory.com)
-
+</div>
+<div align="center">
   ## Tech Tidbit 🎮
 
   In the realm of coding, there's a quirky tradition known as "Rubber Duck Debugging." 🦆👨‍💻 Developers often explain code problems to a rubber duck on their desk. The act of articulating the issue helps   them find the solution! It's like a duck's magical powers transform complex code into simplicity. 🌟✨
