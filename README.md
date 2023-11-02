@@ -17,7 +17,7 @@
   📚 When I'm not immersed in code, you'll find me diving into the depths of books or swimming through the waves. I believe in the transformative power of literature and the refreshing energy of the water.
 
   💻 As a full stack developer, I craft digital experiences and dive into the depths of JavaScript frameworks to build dynamic and innovative applications.
-
+<div align="left">
   🌊 Passionate about:
   - 📖 Reading a variety of genres
   - 🏊‍♂️ Swimming to unwind and stay fit
