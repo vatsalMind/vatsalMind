@@ -13,8 +13,14 @@
   ## About Me
 
   I'm on a cosmic journey, exploring the universe of code and beyond. I manifest digital dreams into reality with pixelated paintbrushes and lines of logic.
+  
+  📚 When I'm not immersed in code, you'll find me diving into the depths of books or swimming through the waves. I believe in the transformative power of literature and the refreshing energy of the water.
 
-  🌈 My passions:
-  - Exploring new dimensions in AI and Machine Learning
-  - Crafting elegant web experiences
-  - Tinkering with creative coding
+  💻 As a full stack developer, I craft digital experiences and dive into the depths of JavaScript frameworks to build dynamic and innovative applications.
+
+  🌊 Passionate about:
+  - 📖 Reading a variety of genres
+  - 🏊‍♂️ Swimming to unwind and stay fit
+  - 🌐 Exploring new dimensions in javascript frameworks
+  - 🌟 Sculpting exquisite web experiences
+  - 🔧 Playing around with imaginative coding techniques
