@@ -3,7 +3,7 @@
 
   # Hey there, I'm Vatsal! 🌟
   
-  ![25](https://img.shields.io/badge/Age-25-blue) ![He/Him](https://img.shields.io/badge/Pronouns-He/him-yellow)
+  ![26](https://img.shields.io/badge/Age-26-blue) ![He/Him](https://img.shields.io/badge/Pronouns-He/him-yellow)
   
   🚀 Aspiring Developer | 💡 Tech Enthusiast | 🌌 Space Lover
 
